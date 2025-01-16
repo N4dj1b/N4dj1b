@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20There!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadjib4869&label=Profile%20views&color=0e75b6&style=flat" alt="nadjib4869" /> </p>
 
