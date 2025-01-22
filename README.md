@@ -13,8 +13,11 @@
   <a href="https://instagram.com/mohamed_nadjib_0" target="blank" style="margin-right: 15px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" />
   </a>
-  <a href="https://khamsat.com/user/nadjib_0" target="blank">
-    <img align="center" src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" height="50" width="70" />
+  <a href="https://khamsat.com/user/nadjib_0" target="blank" style="margin-right: 15px;">
+    <img align="center" src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" height="50" width="100" />
+  </a>
+  <a href="https://mostaql.com/user/nadjib_1" target="blank">
+    <img align="center" src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg?id=dc639dfc13cb096309795e9d84ddd15c" height="50" width="100" />
   </a>
 </p>
 
