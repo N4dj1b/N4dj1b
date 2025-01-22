@@ -13,6 +13,9 @@
   <a href="https://instagram.com/mohamed_nadjib_0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" />
   </a>
+  <a href="https://khamsat.com/user/nadjib_0" target="blank">
+    <img src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" />
+  </a>
 </p>
 
 I'm a **Software Developer** passionate about building high-quality, efficient, and reliable software solutions. I specialize in delivering impactful applications tailored to solve real-world problems and exceed expectations.
