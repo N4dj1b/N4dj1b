@@ -4,19 +4,19 @@
 
 <h2 align="center">Let's Connect and have a Chat!</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-nadjib-taleb-79598425b" target="blank" style="margin-right: 15px;">
+  <a href="https://linkedin.com/in/mohamed-nadjib-taleb-79598425b" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" />
   </a>
-  <a href="https://twitter.com/nadjib11331" target="blank" style="margin-right: 15px;">
+  <a href="https://twitter.com/nadjib11331" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://www.iconfinder.com/icons/11053970/download/png/4096" alt="Twitter" height="50" />
   </a>
-  <a href="https://instagram.com/mohamed_nadjib_0" target="blank" style="margin-right: 15px;">
+  <a href="https://instagram.com/mohamed_nadjib_0" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" />
   </a>
-  <a href="https://khamsat.com/user/nadjib_0" target="blank" style="margin-right: 15px;">
+  <a href="https://khamsat.com/user/nadjib_0" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" height="50" width="100" />
   </a>
-  <a href="https://mostaql.com/user/nadjib_1" target="blank">
+  <a href="https://mostaql.com/u/nadjib_1" target="blank">
     <img align="center" src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg?id=dc639dfc13cb096309795e9d84ddd15c" height="50" width="100" />
   </a>
 </p>
