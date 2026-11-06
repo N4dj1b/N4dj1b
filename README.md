@@ -44,11 +44,11 @@ My interests lie in building practical security solutions and applying machine l
 
 I'm particularly interested in:
 
-- **AI Security & Trustworthy AI** — adversarial evaluation, robustness, and security testing of AI systems.
-- **Application Security** — vulnerability discovery, automated security assessment, and web application testing.
-- **Security Analytics** — machine learning for intrusion detection, anomaly detection, and threat analysis.
-- **LLM & Agent Security** — prompt injection, security evaluation, and emerging threats to AI-powered systems.
-- **Network & Infrastructure Security** — network defense, monitoring, system hardening, and security engineering.
+- **AI Security & Trustworthy AI**: adversarial evaluation, robustness, and security testing of AI systems.
+- **Application Security**: vulnerability discovery, automated security assessment, and web application testing.
+- **Security Analytics**: machine learning for intrusion detection, anomaly detection, and threat analysis.
+- **LLM & Agent Security**: prompt injection, security evaluation, and emerging threats to AI-powered systems.
+- **Network & Infrastructure Security**: network defense, monitoring, system hardening, and security engineering.
 
 ## Selected Projects
 
@@ -82,7 +82,7 @@ A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise,
 - Worked on HAProxy TLS configuration and VPN access.
 - Contributed to network security documentation and infrastructure improvement proposals.
 
-**Web Developer Intern — Cy bears**
+**Web Developer Intern — Cybears**
 *July – September 2025*
 
 - Developed web application features using Next.js and Tailwind CSS.
@@ -144,16 +144,20 @@ A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise,
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=n4dj1b&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4dj1b&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-    height="170"
-    alt="Most used programming languages"
-  />
+  <a href="https://github.com/n4dj1b">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=n4dj1b&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6"
+      height="180"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/n4dj1b">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=n4dj1b&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+      height="180"
+      alt="Most Used Programming Languages"
+    />
+  </a>
 </p>
 
 ---
