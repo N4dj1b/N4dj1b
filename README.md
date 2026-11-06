@@ -13,7 +13,7 @@
 
 <p align="center">
   Exploring the intersection of cybersecurity and machine learning.
-  Building security tools, investigating threats, and exploring trustworthy AI systems.
+  Building security tools, investigating network threats, and exploring trustworthy AI systems.
 </p>
 
 <p align="center">
@@ -23,14 +23,11 @@
   <a href="https://linkedin.com/in/mohamed-nadjib-taleb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/N4dj1b">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://n4dj1b.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://x.com/nadjib11331">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/mohamed_nadjib_0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -40,68 +37,97 @@
 
 I'm a fifth-year Cybersecurity Engineering student at the **Higher School of Computer Science of Sidi Bel Abbès (ESI-SBA), Algeria**, expecting to graduate in 2027.
 
-My interests lie in building practical security solutions and applying machine learning to real-world cybersecurity challenges.
+My interests focus on practical cybersecurity engineering and data-driven approaches to identifying, understanding, and mitigating security threats.
 
 I'm particularly interested in:
 
-- **AI Security & Trustworthy AI**: adversarial evaluation, robustness, and security testing of AI systems.
-- **Application Security**: vulnerability discovery, automated security assessment, and web application testing.
-- **Security Analytics**: machine learning for intrusion detection, anomaly detection, and threat analysis.
-- **LLM & Agent Security**: prompt injection, security evaluation, and emerging threats to AI-powered systems.
-- **Network & Infrastructure Security**: network defense, monitoring, system hardening, and security engineering.
+- **Security Analytics & Machine Learning:** Network intrusion detection, anomaly detection, and threat analysis.
+- **AI Security & Trustworthy AI:** Adversarial evaluation, robustness, and security testing of AI systems.
+- **Application Security:** Automated vulnerability discovery, web security assessment, and security tooling.
+- **LLM & Agent Security:** Prompt injection, security evaluation, and emerging AI-system threats.
+- **Network & Infrastructure Security:** Network defense, intrusion detection, monitoring, and system hardening.
 
-## Selected Projects
+## Featured Projects
 
-### [Virelia](https://github.com/yassertioursi/virelia)
-**Modular Python Web Security Scanner**
+### [Network Flow Anomaly Detection](https://github.com/N4dj1b/netflow-anomaly-detection)
 
-Co-leading the development of a modular web security scanner featuring:
+<kbd>Python</kbd> <kbd>scikit-learn</kbd> <kbd>Machine Learning</kbd> <kbd>Cybersecurity</kbd>
 
-- Reconnaissance and technology fingerprinting.
-- Web Application Firewall detection.
-- OWASP-oriented security testing.
-- Extensible plugin architecture.
-- Automated reporting.
+An unsupervised learning project exploring anomaly detection in network flows.
 
-### Network Intrusion Detection — UNSW-NB15
+- Synthetic NetFlow data generation.
+- Clustering and anomaly detection.
+- Isolation Forest, LOF, One-Class SVM, GMM, and autoencoder approaches.
+- CIC-IDS2017 dataset pipeline.
 
-Machine learning experiments for network intrusion detection, comparing Logistic Regression and Random Forest classifiers.
+### [IDS Alerts Visualization](https://github.com/N4dj1b/ids-alerts-visualization)
 
-### Denoising Autoencoder — PyTorch
+<kbd>Python</kbd> <kbd>Suricata</kbd> <kbd>Snort</kbd> <kbd>Security Analytics</kbd>
 
-A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise, and controlled experimental settings.
+Analysis and visualization of simulated intrusion detection alerts.
+
+- Snort and Suricata alert analysis.
+- Rule-based exploit-burst detection.
+- Baseline evaluation and alert visualization.
+
+### [UNSW-NB15 Intrusion Detection](https://github.com/N4dj1b/unsw-nb15-intrusion-detection)
+
+<kbd>Python</kbd> <kbd>scikit-learn</kbd> <kbd>Machine Learning</kbd>
+
+Machine learning experiments for network intrusion detection using the UNSW-NB15 dataset.
+
+- Logistic Regression vs. Random Forest.
+- Binary attack detection.
+- Multiclass attack classification.
+
+### [Denoising Autoencoder — PyTorch](https://github.com/N4dj1b/denoising-autoencoder-pytorch)
+
+<kbd>Python</kbd> <kbd>PyTorch</kbd> <kbd>Deep Learning</kbd>
+
+Experiments with denoising autoencoders, comparing reconstruction losses under synthetic image noise.
+
+---
 
 ## Experience
 
 **System Security Administrator Intern — Hope Technology**
+
 *July – September 2026*
 
 - Assessed LAN and DMZ security configurations.
-- Worked with Sophos firewalls and OPNsense.
+- Worked with Sophos firewalls, OPNsense, and XCP-ng virtualization.
 - Tuned Suricata intrusion detection rules.
 - Worked on HAProxy TLS configuration and VPN access.
-- Contributed to network security documentation and infrastructure improvement proposals.
+- Contributed to security documentation and infrastructure improvement proposals.
 
 **Web Developer Intern — Cybears**
+
 *July – September 2025*
 
 - Developed web application features using Next.js and Tailwind CSS.
 - Worked with Django REST Framework, PostgreSQL, and Docker.
-- Contributed to frontend performance improvements.
+- Contributed to frontend performance improvements, achieving a 20% improvement in Largest Contentful Paint (LCP).
+
+## Collaborative Work
+
+**[Virelia](https://github.com/yassertioursi/virelia)**
+
+Co-leading the development of a modular Python-based web security scanner, covering reconnaissance, technology fingerprinting, WAF detection, OWASP-oriented security testing, and extensible plugins.
 
 ## Technical Skills
 
-### Programming & Machine Learning
+**Programming & Machine Learning**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-### Cybersecurity & Security Monitoring
+**Cybersecurity & Security Monitoring**
 
 <p>
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh" />
@@ -114,7 +140,7 @@ A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise,
   <img src="https://img.shields.io/badge/BloodHound-DC143C?style=flat-square" alt="BloodHound" />
 </p>
 
-### Infrastructure & Networking
+**Infrastructure & Networking**
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -124,12 +150,12 @@ A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise,
   <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square" alt="pfSense" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/XCP--ng-3C8DBC?style=flat-square" alt="XCP-ng" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
 </p>
 
-### Software Development
+**Software Development**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -141,36 +167,20 @@ A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise,
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/n4dj1b">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=n4dj1b&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6"
-      height="180"
-      alt="GitHub Statistics"
-    />
-  </a>
-  <a href="https://github.com/n4dj1b">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=n4dj1b&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
-      height="180"
-      alt="Most Used Programming Languages"
-    />
-  </a>
-</p>
-
----
-
 ## Opportunities
 
-I'm interested in **2027 end-of-studies internships (PFE), research internships, and selected freelance opportunities** in cybersecurity, security analytics, and AI security.
+I'm interested in **2027 end-of-studies internships (PFE), research internships, and selected freelance opportunities** in:
 
-Feel free to reach out:
+- Cybersecurity and security engineering.
+- Security analytics and machine learning.
+- AI security and trustworthy AI.
+- Automated security assessment and vulnerability research.
+
+I'm always interested in connecting with researchers, engineers, and people working on meaningful security challenges.
 
 <p align="center">
   <a href="mailto:mn.taleb@esi-sba.dz">
-    <img src="https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
+    <img src="https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01be7e6faeff4ca4f0">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
@@ -182,5 +192,3 @@ Feel free to reach out:
     <img src="https://img.shields.io/badge/Mostaql-2C9B75?style=for-the-badge" alt="Mostaql" />
   </a>
 </p>
-
-</div>
