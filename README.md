@@ -1,53 +1,182 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi%20There!&fontSize=100&color=0:8871e5,100:b678c4&stroke=b678c4" alt="header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Mohamed%20Nadjib%20Taleb&fontSize=44&fontColor=ffffff&stroke=8B5CF6&strokeWidth=1&color=0:0D1117,50:161B22,100:312E81&animation=fadeIn&fontAlignY=50"
+    width="100%"
+    alt="Mohamed Nadjib Taleb"
+  />
 </div>
 
-<h2 align="center">Let's Connect and have a Chat!</h2>
+<h3 align="center">
+  Cybersecurity Engineering Student · Security Research · Applied ML
+</h3>
+
 <p align="center">
-  <a href="mailto:mn.taleb@esi-sba.dz" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://www.iconfinder.com/icons/7089163/download/png/4096" alt="Gmail" height="70" />
+  Exploring the intersection of cybersecurity and machine learning.
+  Building security tools, investigating threats, and exploring trustworthy AI systems.
+</p>
+
+<p align="center">
+  <a href="mailto:mn.taleb@esi-sba.dz">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-nadjib-taleb-79598425b" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" />
+  <a href="https://linkedin.com/in/mohamed-nadjib-taleb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/nadjib11331" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://www.iconfinder.com/icons/11053970/download/png/4096" alt="Twitter" height="50" />
+  <a href="https://github.com/N4dj1b">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/mohamed_nadjib_0" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" />
+  <a href="https://x.com/nadjib11331">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01be7e6faeff4ca4f0" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://www.iconfinder.com/icons/1929178/download/png/4096" alt="Upwork" height="50" />
-  </a>
-  <a href="https://khamsat.com/user/nadjib_0" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://khamsat.hsoubcdn.com/assets/images/logo-73045c76e830509d4dbe03ea6172d22f047c708fed5435e93ffd47f80ee5ffa4.png" alt="Khamsat" height="50" width="100" />
-  </a>
-  <a href="https://mostaql.com/u/nadjib_1" target="blank">
-    <img align="center" src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg?id=dc639dfc13cb096309795e9d84ddd15c" alt="Mostaql" height="50" width="100" />
+  <a href="https://instagram.com/mohamed_nadjib_0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-I'm a **Software Developer** passionate about building high-quality, efficient, and reliable software solutions. I specialize in delivering impactful applications tailored to solve real-world problems and exceed expectations.
+---
 
-💼 **Looking for Opportunities**:  
-- Open to full-time roles that challenge my skills and allow me to grow professionally.  
-- Available for freelance projects where I can contribute my expertise to bring your ideas to life.
+## About Me
 
-🔧 **What I Do**:  
-- Develop scalable, maintainable, and user-friendly web applications.
-- Deliver results-driven solutions with a keen eye for detail.  
+I'm a fifth-year Cybersecurity Engineering student at the **Higher School of Computer Science of Sidi Bel Abbès (ESI-SBA), Algeria**, expecting to graduate in 2027.
 
-🌱 **What I'm Learning**:  
--  Spring.
--  Flutter.
+My interests lie in building practical security solutions and applying machine learning to real-world cybersecurity challenges.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n4dj1b&theme=monokai" alt="n4dj1b" /></a> </p>
+I'm particularly interested in:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **AI Security & Trustworthy AI** — adversarial evaluation, robustness, and security testing of AI systems.
+- **Application Security** — vulnerability discovery, automated security assessment, and web application testing.
+- **Security Analytics** — machine learning for intrusion detection, anomaly detection, and threat analysis.
+- **LLM & Agent Security** — prompt injection, security evaluation, and emerging threats to AI-powered systems.
+- **Network & Infrastructure Security** — network defense, monitoring, system hardening, and security engineering.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n4dj1b&show_icons=true&locale=en&layout=compact&theme=monokai" alt="n4dj1b" height="200" style="display: inline-block; margin: 0 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=n4dj1b&show_icons=true&locale=en&theme=monokai" alt="n4dj1b" height="200" style="display: inline-block; margin: 0 10px;" />
+## Selected Projects
+
+### [Virelia](https://github.com/yassertioursi/virelia)
+**Modular Python Web Security Scanner**
+
+Co-leading the development of a modular web security scanner featuring:
+
+- Reconnaissance and technology fingerprinting.
+- Web Application Firewall detection.
+- OWASP-oriented security testing.
+- Extensible plugin architecture.
+- Automated reporting.
+
+### Network Intrusion Detection — UNSW-NB15
+
+Machine learning experiments for network intrusion detection, comparing Logistic Regression and Random Forest classifiers.
+
+### Denoising Autoencoder — PyTorch
+
+A PyTorch implementation of a denoising autoencoder using MNIST, Gaussian noise, and controlled experimental settings.
+
+## Experience
+
+**System Security Administrator Intern — Hope Technology**
+*July – September 2026*
+
+- Assessed LAN and DMZ security configurations.
+- Worked with Sophos firewalls and OPNsense.
+- Tuned Suricata intrusion detection rules.
+- Worked on HAProxy TLS configuration and VPN access.
+- Contributed to network security documentation and infrastructure improvement proposals.
+
+**Web Developer Intern — Cy bears**
+*July – September 2025*
+
+- Developed web application features using Next.js and Tailwind CSS.
+- Worked with Django REST Framework, PostgreSQL, and Docker.
+- Contributed to frontend performance improvements.
+
+## Technical Skills
+
+### Programming & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
+### Cybersecurity & Security Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Zeek-4B9CD3?style=flat-square" alt="Zeek" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/BloodHound-DC143C?style=flat-square" alt="BloodHound" />
+</p>
+
+### Infrastructure & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Sophos-00549E?style=flat-square" alt="Sophos" />
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat-square" alt="OPNsense" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/XCP--ng-3C8DBC?style=flat-square" alt="XCP-ng" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+### Software Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=n4dj1b&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6"
+    height="170"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4dj1b&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    height="170"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+## Opportunities
+
+I'm interested in **2027 end-of-studies internships (PFE), research internships, and selected freelance opportunities** in cybersecurity, security analytics, and AI security.
+
+Feel free to reach out:
+
+<p align="center">
+  <a href="mailto:mn.taleb@esi-sba.dz">
+    <img src="https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01be7e6faeff4ca4f0">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://khamsat.com/user/nadjib_0">
+    <img src="https://img.shields.io/badge/Khamsat-F5A623?style=for-the-badge" alt="Khamsat" />
+  </a>
+  <a href="https://mostaql.com/u/nadjib_1">
+    <img src="https://img.shields.io/badge/Mostaql-2C9B75?style=for-the-badge" alt="Mostaql" />
+  </a>
+</p>
+
+</div>
