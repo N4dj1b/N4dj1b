@@ -165,6 +165,24 @@ Co-leading the development of a modular Python-based web security scanner, cover
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=n4dj1b&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=n4dj1b&layout=compact&langs_count=6&card_width=320&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
 ---
 
 ## Opportunities
